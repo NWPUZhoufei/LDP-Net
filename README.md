@@ -24,7 +24,7 @@ CUDA_VISIBLE_DEVICES=0  nohup python test.py --n_support 5 --seed 1111 --current
 
 
 ```
-# Test exploiting the full data of FSC task:
+# Test exploiting the full data of few-shot task:
 
 ```
 - 5-way 1-shot:
