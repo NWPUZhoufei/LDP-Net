@@ -1,0 +1,165 @@
+nohup: ignoring input
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+600
+train: 1 current epoch train loss: 2.1689663338661194 current epoch train acc: 85.21333333333334
+train: 2 current epoch train loss: 1.9796309089660644 current epoch train acc: 86.13333333333334
+train: 3 current epoch train loss: 1.8102192556858063 current epoch train acc: 87.44
+train: 4 current epoch train loss: 1.7085297203063965 current epoch train acc: 88.25333333333333
+train: 5 current epoch train loss: 1.7437529170513153 current epoch train acc: 88.41333333333333
+train: 6 current epoch train loss: 1.638267159461975 current epoch train acc: 90.21333333333334
+train: 7 current epoch train loss: 1.6253513765335084 current epoch train acc: 90.02666666666667
+train: 8 current epoch train loss: 1.5981606888771056 current epoch train acc: 90.25333333333333
+train: 9 current epoch train loss: 1.5724514377117158 current epoch train acc: 90.6
+train: 10 current epoch train loss: 1.5323601245880127 current epoch train acc: 91.33333333333333
+train: 11 current epoch train loss: 1.5209754139184952 current epoch train acc: 92.01333333333334
+train: 12 current epoch train loss: 1.4812364184856415 current epoch train acc: 92.24
+train: 13 current epoch train loss: 1.5015675443410874 current epoch train acc: 92.08
+train: 14 current epoch train loss: 1.486595126390457 current epoch train acc: 92.30666666666667
+train: 15 current epoch train loss: 1.4817018330097198 current epoch train acc: 92.34666666666666
+train: 16 current epoch train loss: 1.4652666527032852 current epoch train acc: 92.69333333333333
+train: 17 current epoch train loss: 1.4898393970727921 current epoch train acc: 91.98666666666666
+train: 18 current epoch train loss: 1.4332236570119858 current epoch train acc: 92.89333333333333
+train: 19 current epoch train loss: 1.444004980325699 current epoch train acc: 92.73333333333333
+train: 20 current epoch train loss: 1.4062037187814713 current epoch train acc: 93.54666666666667
+train: 21 current epoch train loss: 1.4051476883888245 current epoch train acc: 93.48
+train: 22 current epoch train loss: 1.4531806689500808 current epoch train acc: 92.52
+train: 23 current epoch train loss: 1.4319948828220368 current epoch train acc: 92.96
+train: 24 current epoch train loss: 1.3727671086788178 current epoch train acc: 94.24
+train: 25 current epoch train loss: 1.3586126339435578 current epoch train acc: 93.65333333333334
+train: 26 current epoch train loss: 1.3928682577610016 current epoch train acc: 94.12
+train: 27 current epoch train loss: 1.3963643854856491 current epoch train acc: 93.82666666666667
+train: 28 current epoch train loss: 1.408473573923111 current epoch train acc: 93.62666666666667
+train: 29 current epoch train loss: 1.3490962159633637 current epoch train acc: 94.02666666666667
+train: 30 current epoch train loss: 1.346549130678177 current epoch train acc: 94.36
+train: 31 current epoch train loss: 1.383598963022232 current epoch train acc: 94.04
+train: 32 current epoch train loss: 1.4077246749401093 current epoch train acc: 94.4
+train: 33 current epoch train loss: 1.4008473080396653 current epoch train acc: 94.13333333333334
+train: 34 current epoch train loss: 1.323936344385147 current epoch train acc: 94.57333333333334
+train: 35 current epoch train loss: 1.3633445918560028 current epoch train acc: 94.74666666666667
+train: 36 current epoch train loss: 1.349354129433632 current epoch train acc: 94.18666666666667
+train: 37 current epoch train loss: 1.3393231326341628 current epoch train acc: 94.66666666666667
+train: 38 current epoch train loss: 1.3446677500009536 current epoch train acc: 94.45333333333333
+train: 39 current epoch train loss: 1.3194624871015548 current epoch train acc: 95.05333333333333
+train: 40 current epoch train loss: 1.3523685240745544 current epoch train acc: 94.37333333333333
+train: 41 current epoch train loss: 1.4002128970623016 current epoch train acc: 94.10666666666667
+train: 42 current epoch train loss: 1.3067621850967408 current epoch train acc: 94.92
+train: 43 current epoch train loss: 1.3256930470466615 current epoch train acc: 95.34666666666666
+train: 44 current epoch train loss: 1.3051416563987732 current epoch train acc: 94.92
+train: 45 current epoch train loss: 1.3743824642896652 current epoch train acc: 94.12
+train: 46 current epoch train loss: 1.3077495449781418 current epoch train acc: 94.92
+train: 47 current epoch train loss: 1.3669968301057815 current epoch train acc: 94.28
+train: 48 current epoch train loss: 1.3125215727090835 current epoch train acc: 95.26666666666667
+train: 49 current epoch train loss: 1.290041012763977 current epoch train acc: 95.38666666666667
+train: 50 current epoch train loss: 1.3085002571344375 current epoch train acc: 95.25333333333333
+train: 51 current epoch train loss: 1.3663545036315918 current epoch train acc: 94.78666666666666
+train: 52 current epoch train loss: 1.3137015861272812 current epoch train acc: 95.30666666666667
+train: 53 current epoch train loss: 1.3032741487026214 current epoch train acc: 95.68
+train: 54 current epoch train loss: 1.2716929012537002 current epoch train acc: 96.06666666666666
+train: 55 current epoch train loss: 1.2801677840948105 current epoch train acc: 95.46666666666667
+train: 56 current epoch train loss: 1.2925937575101853 current epoch train acc: 95.57333333333334
+train: 57 current epoch train loss: 1.271417561173439 current epoch train acc: 95.93333333333334
+train: 58 current epoch train loss: 1.3197819823026657 current epoch train acc: 95.34666666666666
+train: 59 current epoch train loss: 1.2942336475849152 current epoch train acc: 95.66666666666667
+train: 60 current epoch train loss: 1.2601247972249985 current epoch train acc: 95.96
+train: 61 current epoch train loss: 1.2880222344398498 current epoch train acc: 95.54666666666667
+train: 62 current epoch train loss: 1.3309701335430146 current epoch train acc: 94.98666666666666
+train: 63 current epoch train loss: 1.238391609787941 current epoch train acc: 96.57333333333334
+train: 64 current epoch train loss: 1.2987982189655305 current epoch train acc: 95.42666666666666
+train: 65 current epoch train loss: 1.2422416430711747 current epoch train acc: 96.62666666666667
+train: 66 current epoch train loss: 1.3053559231758118 current epoch train acc: 95.88
+train: 67 current epoch train loss: 1.3120933282375336 current epoch train acc: 95.6
+train: 68 current epoch train loss: 1.279852002263069 current epoch train acc: 95.73333333333333
+train: 69 current epoch train loss: 1.2860637855529786 current epoch train acc: 95.69333333333333
+train: 70 current epoch train loss: 1.2569486969709396 current epoch train acc: 96.01333333333334
+train: 71 current epoch train loss: 1.2834217655658722 current epoch train acc: 95.97333333333333
+train: 72 current epoch train loss: 1.2762500762939453 current epoch train acc: 95.93333333333334
+train: 73 current epoch train loss: 1.2390957009792327 current epoch train acc: 96.22666666666667
+train: 74 current epoch train loss: 1.2578985035419463 current epoch train acc: 96.29333333333334
+train: 75 current epoch train loss: 1.2723955416679382 current epoch train acc: 96.34666666666666
+train: 76 current epoch train loss: 1.2699187076091767 current epoch train acc: 95.89333333333333
+train: 77 current epoch train loss: 1.2849507272243499 current epoch train acc: 96.17333333333333
+train: 78 current epoch train loss: 1.2535648107528687 current epoch train acc: 96.25333333333333
+train: 79 current epoch train loss: 1.2782081353664398 current epoch train acc: 96.2
+train: 80 current epoch train loss: 1.2262357568740845 current epoch train acc: 96.01333333333334
+train: 81 current epoch train loss: 1.3119862592220306 current epoch train acc: 95.88
+train: 82 current epoch train loss: 1.2581740736961364 current epoch train acc: 96.29333333333334
+train: 83 current epoch train loss: 1.260598760843277 current epoch train acc: 96.4
+train: 84 current epoch train loss: 1.2638737738132477 current epoch train acc: 96.41333333333333
+train: 85 current epoch train loss: 1.2406757378578186 current epoch train acc: 96.62666666666667
+train: 86 current epoch train loss: 1.261540349125862 current epoch train acc: 96.62666666666667
+train: 87 current epoch train loss: 1.2487994277477263 current epoch train acc: 96.69333333333333
+train: 88 current epoch train loss: 1.314201476573944 current epoch train acc: 95.57333333333334
+train: 89 current epoch train loss: 1.2343529784679412 current epoch train acc: 96.25333333333333
+train: 90 current epoch train loss: 1.2435078752040862 current epoch train acc: 96.34666666666666
+train: 91 current epoch train loss: 1.216464928984642 current epoch train acc: 96.88
+train: 92 current epoch train loss: 1.2524455451965333 current epoch train acc: 97.0
+train: 93 current epoch train loss: 1.2210050433874131 current epoch train acc: 96.66666666666667
+train: 94 current epoch train loss: 1.2268319338560105 current epoch train acc: 96.70666666666666
+train: 95 current epoch train loss: 1.2612257397174835 current epoch train acc: 96.29333333333334
+train: 96 current epoch train loss: 1.2379057943820952 current epoch train acc: 96.50666666666666
+train: 97 current epoch train loss: 1.2405380630493164 current epoch train acc: 97.10666666666667
+train: 98 current epoch train loss: 1.2651561868190766 current epoch train acc: 96.14666666666666
+train: 99 current epoch train loss: 1.2148546195030212 current epoch train acc: 97.06666666666666
+train: 100 current epoch train loss: 1.2225351041555406 current epoch train acc: 96.64

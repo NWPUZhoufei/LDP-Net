@@ -1,0 +1,44 @@
+CUB：
+wget http://www.vision.caltech.edu/visipedia-data/CUB-200-2011/CUB_200_2011.tgz
+
+Cars：
+wget http://imagenet.stanford.edu/internal/car196/cars_train.tgz
+
+Places：
+wget http://data.csail.mit.edu/places/places365/places365standard_easyformat.tar
+
+
+Plantae ：
+https://ml-inat-competition-datasets.s3.amazonaws.com/2017/train_val_images.tar.gz
+
+
+EuroSAT:
+
+Home: http://madm.dfki.de/downloads
+
+Direct: http://madm.dfki.de/files/sentinel/EuroSAT.zip
+
+
+
+ISIC2018:
+
+Home: http://challenge2018.isic-archive.com
+
+Direct (must login): https://challenge.isic-archive.com/data#2018
+
+
+
+Plant Disease:
+
+Home: https://www.kaggle.com/saroz014/plant-disease/
+
+Direct: command line kaggle datasets download -d plant-disease/data
+
+
+
+ChestX-Ray8:
+
+Home: https://www.kaggle.com/nih-chest-xrays/data
+
+Direct: command line kaggle datasets download -d nih-chest-xrays/data
+
