@@ -30,11 +30,7 @@ CUDA_VISIBLE_DEVICES=0  nohup python test.py --n_support 1 --seed 1111 --current
 - 5-way 5-shot:
 CUDA_VISIBLE_DEVICES=0  nohup python test.py --n_support 5 --seed 1111 --current_data_path ./target_domain/EuroSAT  --current_class 10 --test_n_eposide 600  --model_path ./checkpoint/100.tar  >record_t2.log 2>&1 &
 
-
-```
-# Test exploiting the full data of few-shot task:
-
-```
+- Test exploiting the full data of few-shot task:
 - 5-way 1-shot:
 CUDA_VISIBLE_DEVICES=0  nohup python test_tr_1shot.py --n_support 1 --seed 1111 --current_data_path ./target_domain/EuroSAT  --current_class 10 --test_n_eposide 600   --model_path ./checkpoint/100.tar  >record_t3.log 2>&1 &
 
@@ -42,29 +38,33 @@ CUDA_VISIBLE_DEVICES=0  nohup python test_tr_1shot.py --n_support 1 --seed 1111 
 CUDA_VISIBLE_DEVICES=0  nohup python test_tr_5shot.py --n_support 5 --seed 1111 --current_data_path ./target_domain/EuroSAT  --current_class 10 --test_n_eposide 600   --model_path ./checkpoint/100.tar  >record_t4.log 2>&1 &
 
 ```
-
-
-# Test for CropDisease：
+# Test for others:
+```
+-Test for CropDisease：
 replace：--current_data_path ./target_domain/CropDisease  --current_class 38  
 
-# Test for ISIC：
+- Test for ISIC：
 replace：--current_data_path ./target_domain/ISIC --current_class 7
 
-# Test for CUB：
+- Test for CUB：
 replace：--current_data_path ./target_domain/CUB/novel  --current_class 50
 
-# Test for cars：
+- Test for cars：
 replace：--current_data_path ./target_domain/cars/novel  --current_class 49
 
-# Test for Places：
+- Test for Places：
 replace：--current_data_path ./target_domain/Places/novel  --current_class 91
 
-# Test for Plantae：
+- Test for Plantae：
 replace：--current_data_path ./target_domain/Plantae/novel  --current_class 50
 
-# Test for Chest：
+- Test for Chest：
 replace：--current_data_path ./target_domain/Chest7  --current_class 7
 
+```
+# Thanks
+Thanks to the authors of these works (https://github.com/IBM/cdfsl-benchmark and https://github.com/hytseng0509/CrossDomainFewShot) for providing the code framework. 
 
-Thanks to the authors of these works (https://github.com/IBM/cdfsl-benchmark and https://github.com/hytseng0509/CrossDomainFewShot) for providing the code framework. If you have any questions, please leave a message in github-issues, or send an email to zhoufei@mail.nwpu.edu.cn
+# Any questions:
+If you have any questions, please leave a message in github-issues, or send an email to zhoufei@mail.nwpu.edu.cn
 
