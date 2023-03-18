@@ -1,12 +1,20 @@
 # LDP-net
-Code and model for LDP-net
+Code and model for "Revisiting Prototypical Network for Cross Domain Few-Shot Learning" (LDP-net).
 
 # Requirements
-- numpy  1.21.2
-- scipy  1.3.0
-- torch  1.6.0
-- torchvision  0.7.0
+- numpy==1.16.4
+- scipy==1.3.0
+- scikit-learn==0.21.2
+- torch==1.8.0+cu111
+- torchaudio==0.8.0
+- torchvision==0.9.0+cu111
 - python 3.7.3
+
+# Datesets
+Following "A Broader Study of Cross-Domain Few-Shot Learning" - > EuroSAT, CropDisease, ISIC, Chest.
+Following "CROSS-DOMAIN FEW-SHOT CLASSIFICATION VIA LEARNED FEATURE-WISE TRANSFORMATION"  - > CUB, cars, Places, Plantae.
+Please refer to the above works to obtain datasets or you can download these datasets from this (address: https://pan.baidu.com/s/1xOEQuT1jP6Z1QIVZkMTHng,
+password: ao3m) , which I processed the datasets as described in these papers.
 
 # Train
 ```
@@ -56,3 +64,7 @@ replace：--current_data_path ./target_domain/Plantae/novel  --current_class 50
 
 # Test for Chest：
 replace：--current_data_path ./target_domain/Chest7  --current_class 7
+
+
+Thanks to the authors of these works (https://github.com/IBM/cdfsl-benchmark and https://github.com/hytseng0509/CrossDomainFewShot) for providing the code framework. If you have any questions, please leave a message in github-issues, or send an email to zhoufei@mail.nwpu.edu.cn
+
