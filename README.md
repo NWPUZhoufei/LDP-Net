@@ -63,7 +63,7 @@ replace：--current_data_path ./target_domain/Chest7  --current_class 7
 
 ```
 # Thanks
-Thanks to the authors of these works (https://github.com/IBM/cdfsl-benchmark and https://github.com/hytseng0509/CrossDomainFewShot) for providing the code framework. 
+Thanks to these works (https://github.com/IBM/cdfsl-benchmark and https://github.com/hytseng0509/CrossDomainFewShot) for providing the code framework. 
 
 # Any questions:
 If you have any questions, please leave a message in github-issues, or send an email to zhoufei@mail.nwpu.edu.cn
